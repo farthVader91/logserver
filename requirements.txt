@@ -1,0 +1,4 @@
+Twisted==15.4.0
+psutil==3.2.2
+wsgiref==0.1.2
+zope.interface==4.1.3
